@@ -1,0 +1,15 @@
+# Python cache files
+__pycache__/
+*.pyc
+
+# Virtual environment (DO NOT upload)
+.venv/
+
+# Environment variables (API keys)
+.env
+
+# Vector database (generated data)
+chroma_db/
+
+# macOS junk files
+.DS_Store
