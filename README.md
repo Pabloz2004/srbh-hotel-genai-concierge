@@ -12,17 +12,29 @@ The goal was to build a concierge assistant that answers only from verified docu
 
 ## Project Structure
 hotel-genai-concierge/
+
 ├── data/
+
 │   ├── amenities.txt
+
 │   ├── dining.txt
+
 │   ├── experiences.txt
+
 │   ├── local_guide.txt
+
 │   ├── policies.txt
+
 │   └── rooms_and_suites.txt
+
 ├── ingest.py
+
 ├── rag_query.py
+
 ├── requirements.txt
+
 ├── .gitignore
+
 └── readme.md
 
 
